@@ -3,7 +3,7 @@
   (general
     (links 48)
     (no_connects 0)
-    (area 0 0 0 0)
+    (area 126.617619 91.945 178.125002 136.965)
     (thickness 1.6)
     (drawings 0)
     (tracks 259)
@@ -528,12 +528,12 @@
     )
   )
 
-  (module Socket_Strips:Socket_Strip_Straight_1x04_Pitch2.54mm (layer F.Cu) (tedit 59AFB003) (tstamp 59AD6812)
+  (module Socket_Strips:Socket_Strip_Straight_1x04_Pitch2.54mm (layer F.Cu) (tedit 58CD5446) (tstamp 59AD6812)
     (at 163.83 102.87 180)
     (descr "Through hole straight socket strip, 1x04, 2.54mm pitch, single row")
     (tags "Through hole socket strip THT 1x04 2.54mm single row")
     (path /59AE9A83)
-    (fp_text reference J2 (at 0 -2.54 180) (layer F.SilkS)
+    (fp_text reference J2 (at 0 -2.33 180) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value Conn_01x04 (at 0 9.95 180) (layer F.Fab)
